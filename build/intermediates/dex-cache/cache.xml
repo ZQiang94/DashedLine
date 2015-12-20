@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Workspaces\asworkspace\DashLine\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="11511583bd1673ec098ce8f85f705496d1ad1d12">
+        <dex dex="D:\Workspaces\asworkspace\DashLine\app\build\intermediates\pre-dexed\debug\classes_868c3d2819c42ef51ccbb54b3b25bca3b030aca6.jar" />
+    </item>
+
+</items>
