@@ -16,3 +16,4 @@ ps:硬件加速什么？开启有什么利弊？为什么Android3.0之后可以�
 
 参考：http://tech2ipo.com/38255
 http://blog.csdn.net/xushuaic/article/details/38975915
+![image](https://raw.githubusercontent.com/ZQiang94/DashedLine/master/demo.png)
